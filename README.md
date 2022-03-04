@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divyemaheshwari
+- 👋 Hi, I’m Divye Maheshwari
 - 👀 I’m interested in data science related Co-Op opportunities in Canada
 - 🌱 I’m currently pursuing MS In CS with Specialization in Big Data from Simon Fraser University, Canada
 - 📫 LinkedIn: https://www.linkedin.com/in/divyemaheshwari/
